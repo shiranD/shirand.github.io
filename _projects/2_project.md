@@ -1,81 +1,38 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
+title: Docker's FST
+description: a wrapper for OpenFST and PywrapFST library (2016)
+img: assets/img/docker.png
+importance: 1
 category: work
-giscus_comments: true
+related_publications: dudy2018multi
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Finite State Transducers
+FSTs or Finite State Transducers (or Automatons) are tool one can use for creating language models. They were especially popular in the era that pre-dated deep learning, (so before not only transformers were introduced, rather RNNs). FSTs are considered to be generative language models (LMs) since their outcome contains a graphical representation of all the strings found in that language, but no worries they can handle situations in which there is little data on particular patterns in the training (via backoff, for instance). Generally, these LMs can handle better low resourced data, compared to some deep learning approaches. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## A little more
+Technically these repos is based on the [OpenFST library](https://www.openfst.org/twiki/bin/view/FST/WebHome) implementation, [Pynini](https://github.com/kylebgorman/pynini) implementation by Kyle Gorman, and [OpenGRM](https://github.com/mjansche/opengrm-ngram/tree/master) implementation.
+The repos here may assist you when you are working on a python compiler and are interested in working with OpenFST library, Pynini, and GRM. While by the time you read it, these repos may no longer maintain the latest version, it can inspire you to set one of your own based on the recipes available in each of the docker images associated with the corresponding library. The Dockerization of those tools/libraries is aimed at preventing a messy installation and help have a smooth start when prepraring to work with them.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+## Repos link
+The images below and their associated repos can be found in [Docker repos](https://hub.docker.com/r/shirand/fst_1.6.1)
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+How did I use it? In the project {% cite dudy2018multi %} we used the specializer to create the second baseline (PreLM). 
+
+We have this
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/grm.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/fst.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-```
-{% endraw %}
+<div class="row justify-content-sm-center"> 
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/pynini.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
