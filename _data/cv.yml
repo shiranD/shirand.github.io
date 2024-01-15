@@ -2,96 +2,106 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Shiran Dudy
     - name: Languages
-      value: English, German
-
+      value: English, Hebrew, Arabic
+    - name: Role
+      value: Research Scientist
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Computer Science
+      institution: Oregon Health & Science University, Portland, OR
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Worked on a Brain-Computer interface project as a spelling system 
+        - title: Conducted research on long-tail phenomena in language
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Developed an icon-based language system.
+            - Developed a language mispronunciation detection algorithm.
+            - Developed a retrieval-based LM that predicts rare tokens.
+    - title: B.Sc. in Biomendical Engineering
+      institution: Ben Gurion University, Beer Sheva 
+      year: 2012
       description:
-        - Description 1.
-        - Description 2.
+        - Conducted a feasiblity test for a Text2Speech system for Hebrew.
+        - Implemeted a unit selection approach for Hebrew speech synthesis.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Scientist
+      institution: Northeastern University
+      year: 2023 - 
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - As a researcher my main activities are applying for funding as well as conducting research on technical and socio-technical domains.
+        - title: A prominent topic in researching long-tails of distributions and identities.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Work on questions around personalization and perspective-centered design.
+            - Work on long tail understanding of LLMs.
+            - Work on participatory engagement for elders.
+            - Work on Search Engine design challenges.
+            - Happy to collaborate on funding and research on these and similar topics. 
+    - title: Research Associate
+      institution: University of Colorado, Boulder 
+      year: 2021-2023
       description:
-        - Description 1.
-        - Description 2.
+        - Worked on a student- and teacher- centered AI classroom chatbot 
+        - Developed a interruption detection tool for equitable classroom participation.
+        - Worked on a dependency based dialogue act to analyse classroom social dynamic. 
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Machine Learning researcher
+      institution: Cylance ltd. (now Blackberry)
+      year: 2016
+      description: Developed a malware detection algorithm based on topic modelling
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Selected for the 2023 Women in AI Ethics 
+        - Was given seed award for Robotics summer camp outreach activity
+    - year: 2020
       items: 
-        - Max Planck Medal
+        - WiML@ICML award recipient to attend WiML and ICML
+        - WiNLP Diversity and Inclusion award recipient to attend WiNLP and ACL
+    - year: 2018 
+      items: 
+        - Student Research Workshop (SRW) travel award to attend ACL
+        - Graduate Student Organization (GSO) at OHSU travel award to attend NAACL
+    - year: 2017
+      items: 
+        - GREPSEC cybersecurity workshop scholarship and travel award
+
+- title: Talks
+  type: time_table
+  contents:
+    - year: 2023
+      items:
+        - Value-based Research, Cigna Inc.
+    - year: 2022
+      items:
+        - Personalization and Relevance in NLG, UserNLP workshop, WWW conference
+    - year: 2021
+      items:
+        - Responsible Dialogue Systems, guest speaker NLP class, CU Boulder
+        - Overcoming Limitations of Categorical Neural Language Models, The Hebrew University
+    - year: 2020
+      items:
+        - Overcoming Limitations of Categorical Neural Language Models, Allen Institute for AI
+        - A Proposal for Language Model Approaches in ECOG based AAC, Chang Lab, UCSF-Berkeley
+    - year: 2019
+      items:
+        - Language Models in BCI Systems, Women Who Code, Portland, OR
+    - year: 2018
+      items:
+        - Towards Icon Language Models, Natural Language Processing Workshop, BCI Meeting
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Inclusion of Multiple cultural, gender, ability etc. perspectives in our designs (see workshoporganization)
+    - title: Rare events detection and learning strategies.
+    - title: Participatory design in artefacts development.
+    - title: Ethical perspectives on AI; for instance equitability in search engines and social media.
