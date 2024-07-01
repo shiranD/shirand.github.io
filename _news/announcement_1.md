@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-06-01 15:59:00-0400
+date: 2023-05-01 15:59:00-0400
 inline: true
 related_posts: false
 ---
-I have started working at Northeastern's Experiential AI institute
+Our work on "Speaker Diarization in the Classroom: How Much Does Each Student Speak in Group Discussions?" will be presented at the Educational Data Mining (EDM 2024)
