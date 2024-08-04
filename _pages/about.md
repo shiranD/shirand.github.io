@@ -16,6 +16,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome! I recently joined Northeastern University, where I focus on technical aspects like NLP and speech processing, as well as social-technical questions to promote Responsible AI (RAI) practices. I'm a part of the RAI team at the [Institute for Experiential AI](https://ai.northeastern.edu) (EAI). I specialize in addressing Long-Tail problems. From a technical standpoint, my work involves understanding gaps arising from low-frequency data events and devising strategies to mitigate them (the gaps, of course ;-)). On the socio-technical side, I concentrate on amplifying voices and involving stakeholders we don't hear enough from. Through this effort, I aim to contribute to the creation of more equitable and just outcomes when designing new systems.
+Welcome! I am a Research Scientist at Northeastern University, specializing in natural language processing (NLP) and speech processing, with a strong focus on promoting Responsible AI (RAI) practices at [Institute for Experiential AI](https://ai.northeastern.edu).
+
+My research primarily revolves around understanding cultural representation within AI systems. I explore how well non-dominant cultures and values are represented, both directly by examining the outputs of these systems and indirectly by analyzing who is involved in their creation. Additionally, I am committed to enhancing inclusivity through both technical and socio-technical approaches, advocating for participatory methods in the design of AI tools.
+
+In my role as a technical lead in the RAI consulting services at EAI, I strive to contribute to the development of AI systems that are equitable and just. Through these efforts, I aim to ensure that new technologies serve all communities fairly and responsibly.
 
 Email: shirdu2 at gmail dot com
