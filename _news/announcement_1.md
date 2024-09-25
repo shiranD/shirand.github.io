@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-05-01 15:59:00-0400
+date: 2024-09-18 07:59:00-0400
 inline: true
 related_posts: false
 ---
-Our work on ["Speaker Diarization in the Classroom: How Much Does Each Student Speak in Group Discussions?"](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-short-papers.33/2024.EDM-short-papers.33.pdf) will be presented at the Educational Data Mining (EDM 2024)
+We got the Best Paper Award for ACII 2024! 🏆 Look for me in the yellow shirt in the [ACII tweet](https://x.com/acii_conf/status/1836373932011573511) We are honored and excited and I'm looking forward to continuing this important work on cultural inclusivity in AI! 🎉
