@@ -58,6 +58,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items: 
+        - Won Best Paper Award for "Analyzing Cultural Representations of Emotions in LLMs through Mixed Emotion Surve" paper in ACII 
     - year: 2023
       items: 
         - Selected for the 2023 Women in AI Ethics 
@@ -66,6 +69,7 @@
       items: 
         - WiML@ICML award recipient to attend WiML and ICML
         - WiNLP Diversity and Inclusion award recipient to attend WiNLP and ACL
+        - Won second Best Paper Award for "Are some words worth more than Others?" in Eval4NLP workshop
     - year: 2018 
       items: 
         - Student Research Workshop (SRW) travel award to attend ACL
