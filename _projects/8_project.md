@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mixed Emotions
-description: Evaluating Cultural Represntation of Mixed Emotions (2024)
+description: Evaluating Cultural Represntation of Mixed Emotions (2024). Won Best Paper Award!
 img: assets/img/flower.png
 importance: 1
 category: work
@@ -19,8 +19,6 @@ This study evaluates the cultural representation of emotions in Large Language M
 ## Findings
 
 We find that the investigated LLMs demostrate limited alignment with the mixed emotions phenomenon. We learn that LLMs are more sensitive to the language rather than the content (of participant's origin) they were provided with. 
-
-### Our paper won Best Paper Award!
 
 ## Repo link
 {% if site.data.repository8.github_repos %}

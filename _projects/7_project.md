@@ -5,7 +5,7 @@ description: Speech based interruption detection (2023)
 img: assets/img/interupt.png
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: wang2024speaker
 ---
 
 ## What is it about
