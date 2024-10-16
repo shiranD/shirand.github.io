@@ -81,26 +81,29 @@
 - title: Talks
   type: time_table
   contents:
+    - year: 2024
+      items:
+        - "Voices and Chices: Who’s missing in AI? Building a More Inclusive Future", Colorado Office of Information Technology
     - year: 2023
       items:
-        - Value-based Research, Cigna Inc.
+        - "Value-based Research", Cigna Inc.
     - year: 2022
       items:
-        - Personalization and Relevance in NLG, UserNLP workshop, WWW conference
+        - "Personalization and Relevance in NLG", UserNLP workshop, WWW conference
     - year: 2021
       items:
-        - Responsible Dialogue Systems, guest speaker NLP class, CU Boulder
-        - Overcoming Limitations of Categorical Neural Language Models, The Hebrew University
+        - "Responsible Dialogue Systems, guest speaker NLP class", CU Boulder
+        - "Overcoming Limitations of Categorical Neural Language Models", The Hebrew University
     - year: 2020
       items:
-        - Overcoming Limitations of Categorical Neural Language Models, Allen Institute for AI
-        - A Proposal for Language Model Approaches in ECOG based AAC, Chang Lab, UCSF-Berkeley
+        - "Overcoming Limitations of Categorical Neural Language Models", Allen Institute for AI
+        - "A Proposal for Language Model Approaches in ECOG based AAC", Chang Lab, UCSF-Berkeley
     - year: 2019
       items:
-        - Language Models in BCI Systems, Women Who Code, Portland, OR
+        - "Language Models in BCI Systems", Women Who Code, Portland, OR
     - year: 2018
       items:
-        - Towards Icon Language Models, Natural Language Processing Workshop, BCI Meeting
+        - "Towards Icon Language Models", Natural Language Processing Workshop, BCI Meeting
 
 - title: Academic Interests
   type: nested_list
