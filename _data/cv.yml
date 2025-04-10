@@ -81,6 +81,9 @@
 - title: Talks
   type: time_table
   contents:
+    - year: 2024
+      items:
+        - Voices and Chices, Who’s missing in AI? Building a More Inclusive Future, Colorado Office of Information Technology
     - year: 2023
       items:
         - Value-based Research, Cigna Inc.

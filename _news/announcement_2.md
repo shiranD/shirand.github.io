@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2024-05-21 15:59:00-0400
+date: 2025-04-10 15:59:00-0400
 inline: true
 related_posts: false
 ---
-We had a third successful round of the [NLP Perspectivist workshop](https://aclanthology.org/2024.nlperspectives-1.pdf)
+Our paper [Unequal Opportunities: Examining the Bias in Geographical
+Recommendations by Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3708359.3712111) was presented in Intelligent User Interaction confernece and won Honorable Mention Award 🏆 
