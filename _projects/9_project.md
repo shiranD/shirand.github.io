@@ -1,7 +1,7 @@
 ---
 layout: page
 title: geographical divide
-description: Unequal Opportunities: Examining the Bias in Geographical Recommendations by Large Language Models (2025). Won Honorable Mention Award!
+description: Unequal Opportunities Examining the Bias in Geographical Recommendations by Large Language Models (2025). Won Honorable Mention Award!
 img: assets/img/urban_rural_divide.png
 importance: 1
 category: work
