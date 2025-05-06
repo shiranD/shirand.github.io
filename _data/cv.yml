@@ -34,19 +34,18 @@
       institution: Northeastern University
       year: 2023 - 
       description:
-        - As a researcher my main activities are applying for funding as well as conducting research on technical and socio-technical domains.
+        - As a researcher my main activities are conducting research on technical and socio-technical domains as well as consulting.
         - title: A prominent topic in researching long-tails of distributions and identities.
           contents:
-            - Work on questions around personalization and perspective-centered design.
-            - Work on long tail understanding of LLMs.
-            - Work on participatory engagement for elders.
+            - Work on auditing AI for fairness and cultural alignment.
+            - Consult industry partners on Responsible AI and Governance.
+            - Work on participatory engagement.
             - Work on Search Engine design challenges.
-            - Happy to collaborate on funding and research on these and similar topics. 
     - title: Research Associate
       institution: University of Colorado, Boulder 
       year: 2021-2023
       description:
-        - Worked on a student- and teacher- centered AI classroom chatbot 
+        - Worked on a student- and teacher-centered AI classroom chatbot 
         - Developed a interruption detection tool for equitable classroom participation.
         - Worked on a dependency based dialogue act to analyse classroom social dynamic. 
 
