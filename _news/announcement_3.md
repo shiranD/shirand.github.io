@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-07-01 07:59:00-0400
+date: 2025-06-01 07:59:00-0400
 inline: true
 related_posts: false
 ---
-Our paper ["Are Generative Language Models Multicultural? A Study on Hausa Culture and Emotions using ChatGPT"](https://arxiv.org/pdf/2406.19504) got accepted to Cross Cultural Considerations in NLP workshop (C3NLP 2024)
+I was invited to join the Advisory Council for the Massachusetts Science and Technology Policy fellowship. This fellowship is led by the [Scientific Citizenship Initiative](https://scientific-citizenship.org). The goal of this fellowship is to have a year long P.hD. Scientists serving directly the Massachusetts State House -- creating a bridge between science and public service.
