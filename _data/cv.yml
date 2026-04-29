@@ -62,7 +62,8 @@
         - Won Honorable Mention Award for "Unequal Opportunities Examining the Bias in Geographical Recommendations by Large Language Models"
     - year: 2024
       items: 
-        - Won Best Paper Award for "Analyzing Cultural Representations of Emotions in LLMs through Mixed Emotion Surve" paper in ACII 
+        - Won Best Paper Award for "Analyzing Cultural Representations of Emotions in LLMs through Mixed Emotion Surve" paper in ACII
+        - Awarded $60k from University of Notre-Dame x IBM ethics lab
     - year: 2023
       items: 
         - Selected for the 2023 Women in AI Ethics 
@@ -83,6 +84,13 @@
 - title: Talks
   type: time_table
   contents:
+      - year: 2026
+      items:
+        - Navigating Risk - From Awareness to Accountability, Future of Science Seminar, MetaGov
+    - year: 2025
+      items:
+        - Generative AI as a Search Engine, Responsible AI workshop series Northeastern University
+        - AI and real-world opportunities, Open Data Science Conference (ODSC)
     - year: 2024
       items:
         - Voices and Chices, Who’s missing in AI? Building a More Inclusive Future, Colorado Office of Information Technology
@@ -110,7 +118,6 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Inclusion of Multiple cultural, gender, ability etc. perspectives in our designs (see workshoporganization)
-    - title: Rare events detection and learning strategies.
-    - title: Participatory design in artefacts development.
-    - title: Ethical perspectives on AI; for instance equitability in search engines and social media.
+    - title: Auditing AI systems for soceital impacts
+    - title: Studying and conducting Participatory Design (and large-scale PD) to democratize our institutions
+    - title: Building and developing civic tech for real stakeholdes
