@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 
 **Hi, I'm Shiran — I research the risks AI systems pose to equity and access, and I design AI tools that center the people they're meant to serve.**
 
-I'm a Research Scientist at [Northeastern University's Institute for Experiential AI](https://ai.northeastern.edu), where I specialize in Responsible AI specifically via auditing AI systems as a socio-technical system (having their societal impact in mind), and propose guardrails to protect end-users. I'm also building and experimenting with AI tools to strenthen and empower users to enhance our democracy.
+I'm a Research Scientist at [Northeastern University's Institute for Experiential AI](https://ai.northeastern.edu), where I specialize in Responsible AI specifically via auditing AI systems as a socio-technical system (having their societal impact in mind), and propose guardrails to protect end-users. I'm also building and experimenting with AI tools to strengthen and empower users to enhance our democracy.
 
 **What I do**
 
